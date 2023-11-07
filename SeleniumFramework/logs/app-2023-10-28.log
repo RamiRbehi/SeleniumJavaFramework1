@@ -1,0 +1,11 @@
+[TRACE] 2023-10-28 12:33:37.714 [main] Log4jDemo - This is a trace message
+[INFO ] 2023-10-28 12:33:37.718 [main] Log4jDemo - This is information message
+[ERROR] 2023-10-28 12:33:37.718 [main] Log4jDemo - This is an error message
+[WARN ] 2023-10-28 12:33:37.718 [main] Log4jDemo - This is an warning message
+[FATAL] 2023-10-28 12:33:37.718 [main] Log4jDemo - This is an fatal message
+[INFO ] 2023-10-28 22:28:28.483 [main] Log4jDemo - Broser started
+[INFO ] 2023-10-28 22:29:40.035 [main] Log4jDemo - Broser started
+[INFO ] 2023-10-28 22:31:49.766 [main] Log4jDemo - Broser started
+[INFO ] 2023-10-28 22:31:53.705 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2023-10-28 22:34:14.366 [main] Log4jDemo - Broser started
+[INFO ] 2023-10-28 22:34:20.009 [main] Log4jDemo - Navigated to google.com
